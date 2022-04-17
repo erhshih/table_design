@@ -60,6 +60,6 @@ tbody tr:nth-child(even){
     background-color: rgb(255, 254, 252);
 }
 
-tbody tr td:hover{
+tbody tr td:hover {
     background-color: aqua;
 }
